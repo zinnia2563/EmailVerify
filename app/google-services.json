@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "924334148823",
+    "firebase_url": "https://emailverify-90fac.firebaseio.com",
+    "project_id": "emailverify-90fac",
+    "storage_bucket": "emailverify-90fac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924334148823:android:f2c4553682499d11763492",
+        "android_client_info": {
+          "package_name": "com.example.emailverify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924334148823-sh1i8v3h9pjtnaqgmi9ttfrinqgo8o34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emailverify",
+            "certificate_hash": "ade75a0326c219617010f7f2f69b0ef90a288bca"
+          }
+        },
+        {
+          "client_id": "924334148823-nj852359u6blnbbk6l4fqr0t4332olvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHTMffjwn9Sl4gnRe683E4X7qNbp1wt5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924334148823-nj852359u6blnbbk6l4fqr0t4332olvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
